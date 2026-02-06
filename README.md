@@ -8,7 +8,7 @@ Personal CV website for web programming assignment. Includes sections for profil
 - CSS3 (Flexbox)
 
 ## Live Link
-- Vercel: https://portfolio-web-assignment-plum.vercel.app
+- Vercel: https://portfolio-web-delta-fawn.vercel.app
 
 ## Student Info
 - Name: Ahsan Naeem
